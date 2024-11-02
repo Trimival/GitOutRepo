@@ -1,0 +1,6 @@
+@GitOutProject_HostAddress = http://localhost:5242
+
+GET {{GitOutProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
